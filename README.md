@@ -31,9 +31,12 @@ To run this project, you need to install the required libraries. The following l
 
 The dataset used in this project is the PneumoniaMNIST dataset from MedMNIST, which consists of chest X-ray images. Each image is of 224x224 pixels, in grayscale. The dataset is divided into training, validation, and testing sets. 
 
-Size of Training Set = 4708
+Size of Training Set = 4708 
+
 Size of Test Set = 624
+
 Size of Validation Set= 524
+
 
 ## Visualization
 
@@ -57,14 +60,17 @@ The following metrics were utilized to analyze the performance of the model:
 3. Recall = 0.9038461538461539
 4. F1 Score = 0.9003725478782234
 5. Confusion Matrix
+   
    ![image](https://github.com/user-attachments/assets/754e197f-a210-43b6-98da-ad7ba719616a)
 
 ## User Interface
 
 The project utilizes the Gradio library to create an interactive web interface for the AI-driven medical diagnosis system. Gradio is a powerful library that allows developers to quickly deploy machine learning models and create user-friendly interfaces without extensive front-end development knowledge.
+![image](https://github.com/user-attachments/assets/8d90ced4-9896-4170-88a5-57583951b149)
 
 
-Do Star this repository if you find it useful!
+
+**Do Star this repository if you find it useful!**
 
 
 
